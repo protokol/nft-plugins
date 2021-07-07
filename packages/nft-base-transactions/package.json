@@ -46,7 +46,7 @@
         "@arkecosystem/core-transactions": "^3.0.0-next",
         "@arkecosystem/crypto": "^3.0.0-next",
         "@protokol/nft-base-crypto": "workspace:packages/nft-base-crypto",
-        "ajv": "6.12.6"
+        "ajv": "8.6.1"
     },
     "devDependencies": {
         "@arkecosystem/core-kernel": "^3.0.0-next",
@@ -62,7 +62,7 @@
         "@types/prettier": "^2.1.5",
         "@types/rimraf": "^3.0.0",
         "@types/semver": "7.3.7",
-        "ajv": "6.12.6",
+        "ajv": "8.6.1",
         "bip39": "3.0.4",
         "codecov": "^3.8.1",
         "eslint": "7.30.0",

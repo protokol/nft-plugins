@@ -2378,7 +2378,7 @@ __metadata:
     "@types/prettier": ^2.1.5
     "@types/rimraf": ^3.0.0
     "@types/semver": 7.3.7
-    ajv: 6.12.6
+    ajv: 8.6.1
     bip39: 3.0.4
     codecov: ^3.8.1
     eslint: 7.30.0
@@ -2490,7 +2490,7 @@ __metadata:
     "@types/prettier": ^2.1.5
     "@types/rimraf": ^3.0.0
     "@types/semver": 7.3.7
-    ajv: 6.12.6
+    ajv: 8.6.1
     bip39: 3.0.4
     codecov: ^3.8.1
     eslint: 7.30.0
@@ -3497,7 +3497,19 @@ __metadata:
   languageName: node
   linkType: hard
 
-"ajv@npm:6.12.6, ajv@npm:^6.10.0, ajv@npm:^6.10.2, ajv@npm:^6.12.3, ajv@npm:^6.12.4":
+"ajv@npm:8.6.1":
+  version: 8.6.1
+  resolution: "ajv@npm:8.6.1"
+  dependencies:
+    fast-deep-equal: ^3.1.1
+    json-schema-traverse: ^1.0.0
+    require-from-string: ^2.0.2
+    uri-js: ^4.2.2
+  checksum: 9abb66b4ced54f0e955313387183615028df1affc28859332d5d935258e391ead880ad5a4e5c59e3b82367486b3824faefdaf7b87cfd3a5b6629f14e8edc2fd7
+  languageName: node
+  linkType: hard
+
+"ajv@npm:^6.10.0, ajv@npm:^6.10.2, ajv@npm:^6.12.3, ajv@npm:^6.12.4":
   version: 6.12.6
   resolution: "ajv@npm:6.12.6"
   dependencies:
